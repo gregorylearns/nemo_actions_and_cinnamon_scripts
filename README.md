@@ -805,7 +805,7 @@ e.g `cd nemo_actions_and_cinnamon_scripts`
 Once in the correct folder update your local copy with the latest commits, before reinstalling your scripts.
 
 ```
-git pull origin; cd ..`
+git pull origin; cd ..
 ```
 
 ## Cinnamon Scripts Index
