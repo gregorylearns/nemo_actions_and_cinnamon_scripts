@@ -18,21 +18,29 @@ These instructions assume a Debian/Ubuntu based distro for the commands to insta
 
 First install git
 
-```sudo apt install git```
+```
+sudo apt install git
+```
 
 Then clone this repo
 
-```git clone https://github.com/smurphos/nemo_actions_and_cinnamon_scripts.git```
+```
+git clone https://github.com/smurphos/nemo_actions_and_cinnamon_scripts.git
+```
 
 Having cloned the repo you can either install all of the actions using the commands below or refer to the index of actions to install individual actions.
 
 To install all of the nemo actions
 
-```cp -rv ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/ ~/.local/share/nemo```
+```
+cp -rv ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/ ~/.local/share/nemo
+```
 
 Install other dependencies used by the actions
 
-```sudo apt install zenity xdotool wmctrl mediainfo-gui shellcheck tree imagemagick```
+```
+sudo apt install zenity xdotool wmctrl mediainfo-gui shellcheck tree imagemagick
+```
 
 Either `sudo apt install xplayer` or `sudo apt install totem`
 
@@ -42,11 +50,15 @@ Open Nemo > Preferences > Plugins and review any actions you wish to disable.
 
 In a terminal navigate to the `nemo_actions_and_cinnamon_scripts` folder created when you originally cloned the repo. e.g 
 
-```cd nemo_actions_and_cinnamon_scripts```
+```
+cd nemo_actions_and_cinnamon_scripts
+```
 
 Once in the correct folder update your local copy with the latest commits, before reinstalling your actions.
 
-```git pull origin; cd ..```
+```
+git pull origin; cd ..
+```
 
 ## Nemo Actions Index
 
@@ -56,11 +68,11 @@ Once in the correct folder update your local copy with the latest commits, befor
 
 A set of two actions and an associated shell script to allow the user to gracefully close all open windows on the current workspace or all workspaces via right click on the desktop.
 
-[close_windows_in_workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/close_windows_in_workspace.nemo_action)
+* [close_windows_in_workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/close_windows_in_workspace.nemo_action)
 
-[close_all_windows.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/close_all_windows.nemo_action)
+* [close_all_windows.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/close_all_windows.nemo_action)
 
-[close_windows.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/close_windows.sh)
+* [close_windows.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/close_windows.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
