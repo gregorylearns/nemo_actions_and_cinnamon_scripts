@@ -91,17 +91,17 @@ sudo apt install xdotool wmctrl
 
 A set of six actions to allow easy management of workspaces from the desktop context menu.
 
-[new-workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/new-workspace.nemo_action)
+* [new-workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/new-workspace.nemo_action)
 
-[delete-workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/.local/share/nemo/actions/delete-workspace.nemo_action)
+* [delete-workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/.local/share/nemo/actions/delete-workspace.nemo_action)
 
-[previous_workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/previous_workspace.nemo_action)
+* [previous_workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/previous_workspace.nemo_action)
 
-[next_workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/next_workspace.nemo_action)
+* [next_workspace.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/next_workspace.nemo_action)
 
-[workspace_overview.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/workspace_overview.nemo_action)
+* [workspace_overview.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/workspace_overview.nemo_action)
 
-[window_overview.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/window_overview.nemo_action)
+* [window_overview.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/window_overview.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -118,7 +118,7 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/window_overv
 
 An action to quickly toggle the desktop background slide-show.
 
-[toggle_slideshow.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/toggle_slideshow.nemo_action)
+* [toggle_slideshow.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/toggle_slideshow.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -129,7 +129,7 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/toggle_slide
 An action to select the next-wallpaper in the desktop slide-show - if the slide-show is currently disabled this action will also 
 enable the slide-show.
 
-[next-wallpaper.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/next-wallpaper.nemo_action)
+* [next-wallpaper.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/next-wallpaper.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -141,7 +141,7 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 An action to open the current wallpaper's directory in the file manager, or in the default image viewing application. Requires zenity.
 
-[open-wallpaper.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/open-wallpaper.nemo_action)
+* [open-wallpaper.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/open-wallpaper.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -157,9 +157,9 @@ sudo apt install zenity
 
 The first two actions give quick access from the desktop context menu to the shutdown and logoff session dialogues.
 
-[session_menu_logout.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_menu_logout.nemo_action)
+* [session_menu_logout.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_menu_logout.nemo_action)
 
-[session_menu_poweroff.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_menu_poweroff.nemo_action)
+* [session_menu_poweroff.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_menu_poweroff.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -171,15 +171,15 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/session_menu
 
 These five actions immediately invoke the requested action.
 
-[session_reboot.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_reboot.nemo_action)
+* [session_reboot.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_reboot.nemo_action)
 
-[session_shutdown.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_shutdown.nemo_action)
+* [session_shutdown.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_shutdown.nemo_action)
 
-[session_suspend.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_suspend.nemo_action)
+* [session_suspend.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_suspend.nemo_action)
 
-[session_lock.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_lock.nemo_action)
+* [session_lock.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_lock.nemo_action)
 
-[session_logout.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_logout.nemo_action)
+* [session_logout.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/session_logout.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -197,11 +197,11 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/session_logo
 
 An action to add a single or multiple selection of directories to nemo bookmarks and nemo favourites. Main use case is for those who use tree-view in the side-pane where favourites but not bookmarks is available to maintain a synced selection of favourites and bookmarks.
 
-[bookmark_favourite.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/bookmark_favourite.nemo_action)
+* [bookmark_favourite.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/bookmark_favourite.nemo_action)
 
-[bookmark_favourite.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/bookmark_favourite.sh)
+* [bookmark_favourite.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/bookmark_favourite.sh)
 
-[check_bookmark_favourite.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/check_bookmark_favourite.sh)
+* [check_bookmark_favourite.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/check_bookmark_favourite.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -219,7 +219,7 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Nemo's native Send in Email action was removed in Nemo 4.8. Here are two potential replacements. The first one is specific to Thunderbird as an email client. The second is generic and uses xdg-email and has been tested with both Thunderbird and Evolution. Please note that on some distros xdg-email may have been patched to remove the ability to add attachments. At time of writing xdg-email does work on Linux Mint 20.x
 
-[attach_to_email_tbird.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/attach_to_email_tbird.nemo_action)
+* [attach_to_email_tbird.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/attach_to_email_tbird.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -227,9 +227,9 @@ To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cin
 cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/attach_to_email_tbird.nemo_action ~/.local/share/nemo/actions
 ```
 
-[attach_to_email_xdg-email.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/attach_to_email_xdg-email.nemo_action)
+* [attach_to_email_xdg-email.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/attach_to_email_xdg-email.nemo_action)
 
-[attach_to_email_xdg-email.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/attach_to_email_xdg-email.sh)
+* [attach_to_email_xdg-email.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/attach_to_email_xdg-email.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -247,9 +247,9 @@ These actions allow you to open text files with a password prompt for elevated p
 
 Three versions are supplied, using the CLI text editor Nano, Linux Mint's default GUI text editor Xed and finally the GUI text editor Geany. If you have a different preferred text editor the actions and scripts can easily be modified to suit your needs. The actions invoking a GUI text editor require zenity.
 
-[nano_sudoedit.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/nano_sudoedit.nemo_action)
+* [nano_sudoedit.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/nano_sudoedit.nemo_action)
 
-[nano_sudoedit_check.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/nano_sudoedit_check.sh)
+* [nano_sudoedit_check.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/nano_sudoedit_check.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -261,9 +261,9 @@ mkdir -p ~/.local/share/nemo/actions/action_scripts
 cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scripts/nano_sudoedit_check.sh ~/.local/share/nemo/actions/action_scripts
 ```
 
-[xed_sudoedit.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/xed_sudoedit.nemo_action)
+* [xed_sudoedit.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/xed_sudoedit.nemo_action)
 
-[xed_sudoedit_check.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/xed_sudoedit_check.sh)
+* [xed_sudoedit_check.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/xed_sudoedit_check.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -279,9 +279,9 @@ sudo apt install zenity
 cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scripts/zenity_askpass.sh ~/.local/share/nemo/actions/action_scripts
 ```
 
-[geany_sudoedit.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/geany_sudoedit.nemo_action)
+* [geany_sudoedit.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/geany_sudoedit.nemo_action)
 
-[geany_sudoedit_check.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/geany_sudoedit_check.sh)
+* [geany_sudoedit_check.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/geany_sudoedit_check.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -309,9 +309,9 @@ All require zenity.
 
 Supports single and multiple selections.
 
-[copy_to_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/copy_to_admin.nemo_action)
+* [copy_to_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/copy_to_admin.nemo_action)
 
-[copy_to_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/copy_to_admin.sh)
+* [copy_to_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/copy_to_admin.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -331,9 +331,9 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Supports single and multiple selections
 
-[move_to_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/move_to_admin.nemo_action)
+* [move_to_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/move_to_admin.nemo_action)
 
-[move_to_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/move_to_admin.sh)
+* [move_to_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/move_to_admin.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -353,9 +353,9 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Supports single selections only. Create a link to a file / folder in a directory of your choice.
 
-[create_link_in_target.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_link_in_target.nemo_action)
+* [create_link_in_target.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_link_in_target.nemo_action)
 
-[create_link_in_target.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/create_link_in_target.sh)
+* [create_link_in_target.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/create_link_in_target.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -375,11 +375,11 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 This action has two nemo_action files, one for right-click on a directory, and one for right-click on empty space.
 
-[create_dir_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_dir_admin.nemo_action)
+* [create_dir_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_dir_admin.nemo_action)
 
-[create_dir_admin_background.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_dir_admin_background.nemo_action)
+* [create_dir_admin_background.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_dir_admin_background.nemo_action)
 
-[create_dir_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/create_dir_admin.sh)
+* [create_dir_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/create_dir_admin.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -401,11 +401,11 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 This action has two nemo_action files, one for right-click on a directory, and one for right-click on empty space.
 
-[create_file_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_file_admin.nemo_action)
+* [create_file_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_file_admin.nemo_action)
 
-[create_file_admin_background.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_file_admin_background.nemo_action)
+* [create_file_admin_background.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_file_admin_background.nemo_action)
 
-[create_file_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/create_file_admin.sh)
+* [create_file_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/create_file_admin.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -427,9 +427,9 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Supports single and multiple selections.
 
-[delete_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/delete_admin.nemo_action)
+* [delete_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/delete_admin.nemo_action)
 
-[delete_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/delete_admin.sh)
+* [delete_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/delete_admin.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -449,9 +449,9 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Supports single selections only.
 
-[rename_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/rename_admin.nemo_action)
+* [rename_admin.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/rename_admin.nemo_action)
 
-[rename_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/rename_admin.sh)
+* [rename_admin.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/rename_admin.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -471,11 +471,11 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Quickly bring files or directories under the current user's ownership.  Supports single and multiple selections of files and directories. For multiple selections will display if at least one selection is not under the users ownership. If directories are included in the selection the user is given the option to take ownership recursively.
 
-[take_ownership.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/take_ownership.nemo_action)
+* [take_ownership.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/take_ownership.nemo_action)
 
-[take_ownership.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/take_ownership.sh)
+* [take_ownership.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/take_ownership.sh)
 
-[check_ownership.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/check_ownership.sh)
+* [check_ownership.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/check_ownership.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -497,11 +497,11 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 Quickly add executable bit to files.  Supports single and multiple selections. For multiple selections will display if at least one selection is not currently executable.
 
-[make_executable.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/make_executable.nemo_action)
+* [make_executable.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/make_executable.nemo_action)
 
-[make_executable.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/make_executable.sh)
+* [make_executable.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/make_executable.sh)
 
-[check_not_executable.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/check_not_executable.sh)
+* [check_not_executable.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/check_not_executable.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -524,9 +524,9 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 Select single or multiple files / directories to be presented with a zenity window showing the total disk usage of the selection.
 Based on an action by Linux Mint forum member [sadhu](https://forums.linuxmint.com/memberlist.php?mode=viewprofile&u=129286)
 
-[disk_usage.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/disk_usage.nemo_action)
+* [disk_usage.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/disk_usage.nemo_action)
 
-[disk_usage.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/disk_usage.sh)
+* [disk_usage.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/disk_usage.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -544,9 +544,9 @@ sudo apt install zenity
 
 Select single files / directories to be presented with a zenity window summarising the gvfs metadata associated with file.
 
-[show_metadata.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/show_metadata.nemo_action)
+* [show_metadata.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/show_metadata.nemo_action)
 
-[show_metadata.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/show_metadata.sh)
+* [show_metadata.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/show_metadata.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -565,9 +565,9 @@ sudo apt install zenity
 Select single files or directories to be presented with a zenity window stating which debian package(s) installed the file or has content in the folder.
 This action is only for nemo installed on Debian based systems
 
-[show_parent_package.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/show_parent_package.nemo_action)
+* [show_parent_package.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/show_parent_package.nemo_action)
 
-[show_parent_package.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/show_parent_package.sh)
+* [show_parent_package.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/show_parent_package.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -585,7 +585,7 @@ sudo apt install zenity
 
 An action to quickly create a symlink on the Desktop to any single file or folder selection
 
-[create_link_on_desktop.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_link_on_desktop.nemo_action)
+* [create_link_on_desktop.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/create_link_on_desktop.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -600,9 +600,9 @@ For directories there is an option to use a random emblem generated from the dir
 
 Requires zenity, wmctrl, imagemagick and either xplayer or totem to be installed.
 
-[apply_custom_emblem.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/apply_custom_emblem.nemo_action)
+* [apply_custom_emblem.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/apply_custom_emblem.nemo_action)
 
-[apply_custom_emblem.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/apply_custom_emblem.sh)
+* [apply_custom_emblem.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/apply_custom_emblem.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -620,9 +620,9 @@ Either `sudo apt install xplayer` or `sudo apt install totem
 
 This action action provides an alteranative to the stock icon picker to quickly apply an image as a custom icon for a file or directory. Requires zenity.
 
-[apply_custom_icon.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/apply_custom_icon.nemo_action)
+* [apply_custom_icon.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/apply_custom_icon.nemo_action)
 
-[apply_custom_icon.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/apply_custom_icon.sh)
+* [apply_custom_icon.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/apply_custom_icon.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -640,9 +640,9 @@ This action allows the user to set default folder view (list, compact or icon) a
 
 Requires zenity, wmctrl, and gio. Mint users should be aware that gio is only available in Mint 19 and later.
 
-[set_folder_view_recursively.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/set_folder_view_recursively.nemo_action)
+* [set_folder_view_recursively.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/set_folder_view_recursively.nemo_action)
 
-[set_folder_view_recursively.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/set_folder_view_recursively.sh)
+* [set_folder_view_recursively.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/set_folder_view_recursively.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -658,7 +658,7 @@ sudo apt install zenity wmctrl
 
 Shows information about media files in a separate window using mediainfo-gui - .
 
-[media-info.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/.local/share/nemo/actions/general_actions/media-info.nemo_action)
+* [media-info.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/.local/share/nemo/actions/general_actions/media-info.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -672,9 +672,9 @@ sudo apt install mediainfo-gui
 
 An action and associated shell script to produce an html tree-view of the directory and file structure below the selected directory. Requires tree - `sudo apt install tree`
 
-[print_tree.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/print_tree.nemo_action)
+* [print_tree.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/print_tree.nemo_action)
 
-[print_tree.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/print_tree.sh)
+* [print_tree.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/print_tree.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -693,9 +693,9 @@ sudo apt install tree
 Ever wanted to grab a random selection of music files or pictures from a collection? This action is for you.
 Uses zenity to ask the user to confirm number of files and where to paste them.
 
-[get_random_file.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/get_random_file.nemo_action)
+* [get_random_file.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/get_random_file.nemo_action)
 
-[get_random_files.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/get_random_files.sh)
+* [get_random_files.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/get_random_files.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -713,9 +713,9 @@ sudo apt install zenity
 
 An action and associated shell script to quickly add or remove a ✓ emblem to the file/folder.
 
-[toggle_checked.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/toggle_checked.nemo_action)
+* [toggle_checked.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/toggle_checked.nemo_action)
 
-[toggle_checked.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/toggle_checked.sh)
+* [toggle_checked.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/toggle_checked.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -729,7 +729,7 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/action_scrip
 
 ### Update a files modification date
 
-[touch_file.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/touch_file.nemo_action)
+* [touch_file.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/touch_file.nemo_action)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -742,9 +742,9 @@ cp -r ./nemo_actions_and_cinnamon_scripts/.local/share/nemo/actions/touch_file.n
 This action and associated shell script will check your shell scripts for errors with shellcheck.
 Scripts with no issues will be marked with a checked emblem, scripts with warnings will be marked with a warning emblem and the shellcheck output along with the shell script itself will be opened in a text editor for review.
 
-[shellcheck.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/shellcheck.nemo_action)
+* [shellcheck.nemo_action](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/shellcheck.nemo_action)
 
-[shellcheck.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/shellcheck.sh)
+* [shellcheck.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/share/nemo/actions/action_scripts/shellcheck.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#nemo-action-installation)
 
@@ -827,7 +827,7 @@ git pull origin; cd ..
 This script adds a user configurable desktop background slideshow function to the native Cinnamon screensaver/screen locker.
 It is intended to be run on user login as a startup application.
 
-[lock_screen_slideshow.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/lock_screen_slideshow.sh)
+* [lock_screen_slideshow.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/lock_screen_slideshow.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#cinnamon-scripts-installation)
 
@@ -852,7 +852,7 @@ Logout and log back in.
 This script facilitates the user being presented with a random background on the login screen. It is compatible with any Mint edition using Slick-Greeter and LightDM, not just Cinnamon.
 It is intended to be run from the root crontab.
 
-[login_screen_random_background.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/opt/login_screen_random_background.sh)
+* [login_screen_random_background.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/opt/login_screen_random_background.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#cinnamon-scripts-installation)
 
@@ -884,7 +884,7 @@ Ctrl-O, Enter, Ctrl-X to save the new crontab entries. This will run the script 
 
 This script allows the user to different backgrounds for each Cinnamon workspace. It is intended to be run on user login as a startup application.
 
-[workspace_background_switcher.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/workspace_background_switcher.sh)
+* [workspace_background_switcher.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/workspace_background_switcher.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#cinnamon-scripts-installation)
 
@@ -907,7 +907,7 @@ xdg-open ~/.local/bin/workspace_background_switcher.sh
 This script allows the user to set default opacity levels for open windows based on the window status and type. For example unfocused windows can be translucent whilst focused windows are opaque.
 The effect is independent of the users theme and can be used with any GTK theme. It is intended to be run on user login as a startup application. Requires xdotool and wmctrl - `sudo apt install xdotool wmctrl`
 
-[opacify_windows.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/opacify_windows.sh)
+* [opacify_windows.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/opacify_windows.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#cinnamon-scripts-installation)
 
@@ -930,7 +930,7 @@ xdg-open ~/.local/bin/opacify_windows.sh
 This script uses zenity - `sudo apt install zenity` to open a warning window on battery low and critically low events. This can be helpful if gaming or watching full screen video whilst running on battery as the zenity window will demand attention.
 It is intended to be run on user login as a startup application. Please note the script modifies Cinnamon's default thresholds for Low & Critical battery events and actions. Please review the script if you want to set these thresholds to your preference.
 
-[battery_mon.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/battery_mon.sh)
+* [battery_mon.sh](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.local/bin/battery_mon.sh)
 
 To install after [cloning repo](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts#cinnamon-scripts-installation)
 
@@ -956,7 +956,7 @@ xdg-open ~/.local/bin/battery_mon.sh
 
 This small gtk.css file over-rides is intended to improve visibility of desktop icon labels and screen-saver / screen-locker text on light coloured backgrounds. It also increases the width of scroll bars in GTK3 apps and allows the scrollbars size to vary with changes in text scaling factor.
 
-[gtk.css](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.config/gtk-3.0/gtk.css)
+* [gtk.css](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts/blob/master/.config/gtk-3.0/gtk.css)
 
 ## Installation
 
